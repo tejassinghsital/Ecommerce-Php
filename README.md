@@ -1,2 +1,2 @@
-# Login-Form-Php
+# Ecommerce-Php
 It is a basic login form in php to understanding the concept.
